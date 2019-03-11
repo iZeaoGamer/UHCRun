@@ -1,0 +1,5 @@
+name: UHCRun
+main: UHCRun\UHCRun
+version: 0.0.1
+api: [3.5.6]
+author: Pab45O
